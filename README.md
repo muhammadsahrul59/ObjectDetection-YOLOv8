@@ -18,7 +18,7 @@ pip install label-studio
 pip install ultralytics
 ```
 ## Labeling Images
-To label images with Label Studio, open the Label Studio web application and create a new project. Then, add the images you want to label to the project.
+To label images with [Label Studio](https://labelstud.io/guide/install), open the Label Studio web application and create a new project. Then, add the images you want to label to the project.
 
 To label an image, click on the image and then click on the object you want to label. You can then draw a bounding box around the object and add a label.
 
