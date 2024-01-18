@@ -27,10 +27,11 @@ Once you have labeled all of the images in your project, you can export the labe
 ## Object Detection Images Demos
 ![val_batch1_pred](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8/assets/101655285/f034afc8-4217-4df3-abfa-6db4a69f411a)
 
-## Object Decection Videos Demos
+## Object Detection Videos Demos
 ![proyekobjectdetectfinal](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8/assets/101655285/d15f4fe1-7e1a-4fe7-83ac-f17910fa3657)
 
 ## Object Detection Webcam Demos
+![proyekobjectdetectfinal2](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8/assets/101655285/4fdb3e76-b4d1-4848-bbd9-264c0c0679c7)
 
 ## Run the notebook only on Google Colab
 ```
