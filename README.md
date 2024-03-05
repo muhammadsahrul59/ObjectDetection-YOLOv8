@@ -1,6 +1,6 @@
 # Object Detection using YOLOv8✨
 
-This project demonstrates how to use YOLOv8 to perform object detection on a custom dataset. The project uses Label Studio to label the images, and then exports the labels to YOLO format. The model is then trained on the labeled data, and the best model is saved as **_best.pt_**. The **_obj_detection_webcam.py_** script can then be used to perform object detection on a webcam.
+This project demonstrates how to use YOLOv8 to perform object detection on a custom dataset. The project uses Label Studio to label the images and then exports the labels to YOLO format. The model is then trained on the labeled data, and the best model is saved as **_best.pt_**. The **_obj_detection_webcam.py_** script can then be used to perform object detection on a webcam.
 
 ## Prerequisites
 
@@ -24,13 +24,13 @@ To label an image, click on the image and then click on the object you want to l
 
 Once you have labeled all of the images in your project, you can export the labels to YOLO format
 
-## Object Detection Images Demos
+## Object Detection Images Demo
 ![val_batch1_pred](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8/assets/101655285/f034afc8-4217-4df3-abfa-6db4a69f411a)
 
-## Object Detection Videos Demos
+## Object Detection Video Demo
 ![proyekobjectdetectfinal](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8/assets/101655285/d15f4fe1-7e1a-4fe7-83ac-f17910fa3657)
 
-## Object Detection Webcam Demos
+## Object Detection Webcam Demo
 ![proyekobjectdetectfinal2](https://github.com/muhammadsahrul59/ObjectDetection_YOLOv8/assets/101655285/4fdb3e76-b4d1-4848-bbd9-264c0c0679c7)
 
 ## Run the notebook only on Google Colab
